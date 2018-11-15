@@ -1,3 +1,24 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DemoAboutInfoController.cs](./CS/WorkflowDemoEF.Module.Win/DemoAboutInfoController.cs) (VB: [DemoAboutInfoController.vb](./VB/WorkflowDemoEF.Module.Win/DemoAboutInfoController.vb))
+* [Model.DesignedDiffs.xafml](./CS/WorkflowDemoEF.Module.Win/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WorkflowDemoEF.Module.Win/Model.DesignedDiffs.xafml))
+* [ReceiveCorrelationsDemoController.cs](./CS/WorkflowDemoEF.Module.Win/ReceiveCorrelationsDemoController.cs) (VB: [ReceiveCorrelationsDemoController.vb](./VB/WorkflowDemoEF.Module.Win/ReceiveCorrelationsDemoController.vb))
+* [WinModule.cs](./CS/WorkflowDemoEF.Module.Win/WinModule.cs) (VB: [WinModule.vb](./VB/WorkflowDemoEF.Module.Win/WinModule.vb))
+* [CreateTask.xaml](./CS/WorkflowDemoEF.Module/Activities/CreateTask.xaml) (VB: [CreateTask.xaml](./VB/WorkflowDemoEF.Module/Activities/CreateTask.xaml))
+* [Model.DesignedDiffs.xafml](./CS/WorkflowDemoEF.Module/Model.DesignedDiffs.xafml) (VB: [Model.DesignedDiffs.xafml](./VB/WorkflowDemoEF.Module/Model.DesignedDiffs.xafml))
+* [Module.cs](./CS/WorkflowDemoEF.Module/Module.cs) (VB: [Module.vb](./VB/WorkflowDemoEF.Module/Module.vb))
+* [Issue.cs](./CS/WorkflowDemoEF.Module/Objects/Issue.cs) (VB: [Issue.vb](./VB/WorkflowDemoEF.Module/Objects/Issue.vb))
+* [Task.cs](./CS/WorkflowDemoEF.Module/Objects/Task.cs) (VB: [Task.vb](./VB/WorkflowDemoEF.Module/Objects/Task.vb))
+* [WorkflowDemoDbContext.cs](./CS/WorkflowDemoEF.Module/Objects/WorkflowDemoDbContext.cs) (VB: [WorkflowDemoDbContext.vb](./VB/WorkflowDemoEF.Module/Objects/WorkflowDemoDbContext.vb))
+* [StartWorkflowViaReceiveActivityController.cs](./CS/WorkflowDemoEF.Module/StartWorkflowViaReceiveActivityController.cs) (VB: [StartWorkflowViaReceiveActivityController.vb](./VB/WorkflowDemoEF.Module/StartWorkflowViaReceiveActivityController.vb))
+* [Updater.cs](./CS/WorkflowDemoEF.Module/Updater.cs) (VB: [Updater.vb](./VB/WorkflowDemoEF.Module/Updater.vb))
+* [Model.xafml](./CS/WorkflowDemoEF.Win/Model.xafml) (VB: [Model.xafml](./VB/WorkflowDemoEF.Win/Model.xafml))
+* [Program.cs](./CS/WorkflowDemoEF.Win/Program.cs) (VB: [Program.vb](./VB/WorkflowDemoEF.Win/Program.vb))
+* [DemoApplicationVersionInfo.cs](./CS/WorkflowDemoEF.Win/Properties/DemoApplicationVersionInfo.cs)
+* [WinApplication.cs](./CS/WorkflowDemoEF.Win/WinApplication.cs) (VB: [WinApplication.vb](./VB/WorkflowDemoEF.Win/WinApplication.vb))
+* [WorkflowServerAuthentication.cs](./CS/WorkflowDemoEF.Win/WorkflowServerAuthentication.cs) (VB: [WorkflowServerAuthentication.vb](./VB/WorkflowDemoEF.Win/WorkflowServerAuthentication.vb))
+<!-- default file list end -->
 # How to use the Workflow Module with the Entity Framework data model
 
 
